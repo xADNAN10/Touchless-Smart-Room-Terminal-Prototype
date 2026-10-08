@@ -25,7 +25,7 @@ This terminal functions as a modern room clock and information hub, entirely con
 *   **Microcontroller:** ESP32
 *   **LiDAR Sensor:** SparkFun VL53L5CX (8x8 Multi-Zone ToF Imager)
 *   **Motion Sensor:** Standard PIR Sensor
-*   **Schematics:** Please refer to `circuit_diagram.pdf` for complete wiring details, power distribution, and component integration.
+*   **Schematics:** Please refer to following diagram for the wiring details
 
 <img width="1024" height="572" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/1e72e89a-248d-425a-a5ea-8d90e421b692" />
 
