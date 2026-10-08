@@ -2,6 +2,12 @@
 
 An end-to-end IoT smart display prototype built with an ESP32, an 8x8 LiDAR array, and a Python Flask backend. This project serves as a comprehensive exploration of hardware-software integration, translating raw serial depth data into a responsive, gesture-controlled web interface.
 
+
+
+https://github.com/user-attachments/assets/86408e40-5635-4533-af0b-c0dc78bdeb2a
+
+
+
 ## System Overview
 
 This terminal functions as a modern room clock and information hub, entirely controlled by touchless hand gestures. The ESP32 handles physical sensor polling and spatial mapping, streaming state data over a serial connection to a local server. The Python/Flask backend acts as a bridge, delivering a dynamic HTML/CSS/JavaScript UI that updates in real-time via asynchronous API calls and local state loops.
