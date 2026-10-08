@@ -27,6 +27,9 @@ This terminal functions as a modern room clock and information hub, entirely con
 *   **Motion Sensor:** Standard PIR Sensor
 *   **Schematics:** Please refer to `circuit_diagram.pdf` for complete wiring details, power distribution, and component integration.
 
+<img width="1024" height="572" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/1e72e89a-248d-425a-a5ea-8d90e421b692" />
+
+
 ## Software Stack
 
 The project is divided into three distinct execution layers:
